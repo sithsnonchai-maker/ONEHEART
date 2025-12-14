@@ -1,6 +1,7 @@
 LICENSE
 README.md
 pyproject.toml
+setup.py
 src/oneheart/__init__.py
 src/oneheart/cli.py
 src/oneheart.egg-info/PKG-INFO
@@ -8,3 +9,4 @@ src/oneheart.egg-info/SOURCES.txt
 src/oneheart.egg-info/dependency_links.txt
 src/oneheart.egg-info/top_level.txt
 tests/test_basic.py
+tests/test_oneheart.py
